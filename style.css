@@ -1,0 +1,40 @@
+body{
+      background-color: black;
+      
+      color:white;
+}
+
+.url{
+	color:#ffffff;
+	background-color:red;
+	border:0;
+	width:70%;
+	height: 40px;
+	border-radius: 6px;
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+	outline: none;
+}
+
+.btn{
+	background-color:white;
+	border:0;
+	color:black;
+	height: 50px;
+	width: 25%;
+	border-radius: 6px;
+	padding:10px;
+	font-weight: bold;
+	font-family: Calibri;
+	font-size: 17px;
+}
+
+.btn:hover{
+	font-family: Calibri;
+	font-size: 17px;
+	background-color: gray;
+	color:white;
+	font-weight: bold;
+	cursor: pointer;
+}
